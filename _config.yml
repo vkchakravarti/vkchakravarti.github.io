@@ -2,9 +2,9 @@
 permalink:           pretty
 
 # Setup
-title:               Poole
-tagline:             The Jekyll Butler
-url:                 http://getpoole.com
+title:               VK Chakravarti
+tagline:             My Blog
+url:                 http://vkchakravarti.com
 paginate:            1
 baseurl:             ""
 
@@ -17,9 +17,9 @@ sass:
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              VK Chakravarti
+  url:               https://twitter.com/vkchakravarti
+  email:             vkc19@rediffmail.com
 
 # Custom vars
 version:             2.0.0
